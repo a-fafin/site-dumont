@@ -1,0 +1,38 @@
+title: "CPGE PTSI/PT & ATS"
+description: "Classes préparatoires aux grandes écoles d'ingénieurs — Lycée Dumont d'Urville-Laplace, Caen"
+url: "https://dumont.durville.free.fr"
+baseurl: ""
+
+author: "Équipe enseignante CPGE"
+email: ""
+
+# Build
+#markdown: kramdown
+#highlighter: rouge
+#permalink: /:title/
+
+#kramdown:
+#  parse_block_html: true   # permet le Markdown dans les balises HTML
+
+# Navigation
+nav_links:
+  - title: "PTSI"
+    url: /ptsi/
+  - title: "ATS"
+    url: /ats/
+  - title: "Résultats"
+    url: /resultats/
+  - title: "Actualités"
+    url: /actualites/
+  - title: "Infos pratiques"
+    url: /pratique/
+  - title: "FAQ"
+    url: /faq/
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules
+
