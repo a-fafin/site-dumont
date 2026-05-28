@@ -11,7 +11,7 @@ hero_subtitle: "Tout ce qu'il faut savoir pour nous rejoindre"
 
 ## Localisation
 
-**Lycée Dumont d'Urville – Laplace**  
+**Lycée Dumont d'Urville – Laplace**
 Caen, Calvados, Normandie
 
 - Situé au **Nord de Caen**

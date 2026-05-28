@@ -52,7 +52,8 @@ L'année ATS est très intensive et couvre les matières fondamentales des conco
 >
 > — *Ancien étudiant ATS, promo 2021*
 
-<div style="margin-top:2rem;display:flex;gap:1rem;flex-wrap:wrap">
+
+<div style="margin-top:2rem;display:flex;gap:1rem;flex-wrap:wrap" markdown="0">
   <a href="/files/flyer_prepa_ats.pdf" class="btn-primary" target="_blank">📄 Télécharger la plaquette ATS</a>
   <a href="/faq/" class="btn-secondary">Consulter la FAQ →</a>
 </div>

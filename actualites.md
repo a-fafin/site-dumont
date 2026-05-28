@@ -12,7 +12,7 @@ hero_subtitle: "Les dates importantes de l'année"
 
 ## Événements à venir
 
-<div class="actu-grid" style="margin-bottom:2rem">
+<div class="actu-grid" style="margin-bottom:2rem" markdown="0">
   <div class="actu-card">
     <div class="actu-date">12 Février 2026</div>
     <div class="actu-title">Réunion d'information sur les classes préparatoires</div>
