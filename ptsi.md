@@ -23,7 +23,7 @@ Ouverte depuis **1976** au lycée Dumont d'Urville-Laplace, la prépa PT est l'u
 - **Physique-chimie** : mécanique, électromagnétisme, thermodynamique, chimie
 - **Sciences de l'ingénieur** : mécanique des solides, automatique, systèmes pluritechniques
 - **Informatique** : Python, algorithmique
-- **Anglais** et langue vivante 2 facultative
+- **Anglais** 
 
 ### Deuxième année — PT
 
@@ -46,7 +46,6 @@ Les élèves de PT ont accès aux concours communs des grandes écoles d'ingéni
 ## Conditions d'admission
 
 - Bac général uniquement (**pas STI2D**)
-- Mention Bien ou Très Bien recommandée
 - Candidature via **[Parcoursup](https://www.parcoursup.fr)**
 - Dossier scolaire + lettres de motivation
 
@@ -55,7 +54,7 @@ Les élèves de PT ont accès aux concours communs des grandes écoles d'ingéni
 Les étudiants bénéficient d'un encadrement pédagogique personnalisé avec colles hebdomadaires, travaux dirigés en petits groupes et un suivi individuel. L'ambiance est studieuse mais solidaire.
 
 <div style="margin-top:2rem;display:flex;gap:1rem;flex-wrap:wrap">
-  <a href="/files/flyer_ptsi_pt.pdf" class="btn-primary" target="_blank">📄 Télécharger la plaquette</a>
+  <a href="/assets/pdf/flyer_ptsi_pt.pdf" class="btn-primary" target="_blank">📄 Télécharger la plaquette</a>
   <a href="/faq/" class="btn-secondary">Consulter la FAQ →</a>
 </div>
 
