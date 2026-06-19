@@ -13,7 +13,10 @@
   <a href="/" class="nav-logo">
     Dumont d'Urville · <span>CPGE</span>
   </a>
-  <div class="nav-links">
+
+  <button class="nav-toggle" id="navToggle" aria-label="Ouvrir le menu">☰</button>
+
+  <div class="nav-links" id="navLinks">
     
       <a href="/ptsi/"
          class="active">
@@ -47,6 +50,17 @@
     
   </div>
 </nav>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var toggle = document.getElementById('navToggle');
+    var links = document.getElementById('navLinks');
+    toggle.addEventListener('click', function () {
+      links.classList.toggle('open');
+      toggle.textContent = links.classList.contains('open') ? '✕' : '☰';
+    });
+  });
+</script>
 
 
   <main>
