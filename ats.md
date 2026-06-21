@@ -14,11 +14,11 @@ hero_subtitle: "Adaptation Technicien Supérieur - 1 an"
 
 La classe **ATS** (Adaptation Technicien Supérieur) est une filière de classes préparatoires d'une durée d'**un an**, ouverte depuis **septembre 2018** au lycée Dumont d'Urville-Laplace.
 
-Elle est destinée aux titulaires d'un **BTS** ou d'un **DUT** (ou équivalent) souhaitant intégrer une grande école d'ingénieurs. C'est une passerelle efficace et reconnue vers les concours nationaux.
+Elle est destinée aux titulaires d'un **BTS** ou d'un **BUT2/3** souhaitant intégrer une grande école d'ingénieurs. C'est une passerelle efficace et reconnue vers les concours nationaux.
 
 ## Public visé
 
-- Titulaires d'un BTS ou DUT en **génie mécanique, électrotechnique, génie industriel**, ou domaines connexes
+- Titulaires d'un BTS ou BUT2/3 en **génie mécanique, électrotechnique, génie industriel**, ou domaines connexes
 - Étudiants motivés, ayant de bons résultats en BTS/DUT
 - Candidats souhaitant dépasser le niveau technicien supérieur et viser une école d'ingénieurs
 
@@ -42,15 +42,15 @@ L'année ATS est très intensive et couvre les matières fondamentales des conco
 
 ## Conditions d'admission
 
-- BTS ou DUT obtenu (ou en cours d'obtention)
+- BTS ou BUT2/3 obtenu (ou en cours d'obtention)
 - Spécialités industrielles ou scientifiques
-- Candidature via **[Parcoursup](https://www.parcoursup.fr)**
+- Candidature via **[site du lycée Dumont-Laplace](https://dumont-laplace.lycee.ac-normandie.fr/spip.php?article8)**
 
 ## Témoignage
 
-> "Après mon BTS, l'ATS m'a permis de prendre confiance en moi et d'intégrer Arts et Métiers. L'équipe pédagogique est très disponible et l'ambiance est vraiment motivante."
+> " Après presque 3 mois de cours en école d’ingénieurs, on se rend bien compte que l’année de prépa a été plus que bénéfique, on a de vraies facilités par rapport aux sortants de BUT/BTS."
 >
-> — *Ancien étudiant ATS, promo 2021*
+> — *Enzo, décembre 2022*
 
 
 <div style="margin-top:2rem;display:flex;gap:1rem;flex-wrap:wrap" markdown="0">
